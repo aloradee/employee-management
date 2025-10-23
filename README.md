@@ -21,8 +21,8 @@ employee-management/<br>
 │ │ ├── EmployeeNotFoundException.java<br>
 │ │ └── FileLoadException.java<br>
 │ └── Main.java<br>
-├── README.md <br>
-└── employees.txt (создается автоматически) <br>
+└── README.md <br>
+
 
 
 ## Требования
