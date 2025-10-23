@@ -1,4 +1,4 @@
-package exceptions;
+package com.example.exceptions;
 
 public class FileLoadException extends Exception{
     public FileLoadException(String message) {

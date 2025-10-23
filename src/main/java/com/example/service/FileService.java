@@ -1,7 +1,7 @@
-package service;
+package com.example.service;
 
-import exceptions.FileLoadException;
-import model.Employee;
+import com.example.exceptions.FileLoadException;
+import com.example.model.Employee;
 
 import java.io.*;
 import java.util.ArrayList;

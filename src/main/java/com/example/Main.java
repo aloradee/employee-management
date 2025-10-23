@@ -1,10 +1,10 @@
 package com.example;
 
-import exceptions.EmployeeNotFoundException;
-import exceptions.FileLoadException;
-import model.Employee;
-import service.EmployeeService;
-import service.FileService;
+import com.example.exceptions.EmployeeNotFoundException;
+import com.example.exceptions.FileLoadException;
+import com.example.model.Employee;
+import com.example.service.EmployeeService;
+import com.example.service.FileService;
 
 import java.util.ArrayList;
 import java.util.List;

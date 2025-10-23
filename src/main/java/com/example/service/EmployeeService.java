@@ -1,7 +1,7 @@
-package service;
+package com.example.service;
 
-import exceptions.EmployeeNotFoundException;
-import model.Employee;
+import com.example.exceptions.EmployeeNotFoundException;
+import com.example.model.Employee;
 
 import java.util.ArrayList;
 import java.util.HashMap;
